@@ -15,7 +15,7 @@
 //
 
 android_library {
-    name: "co.aospa.resources",
+    name: "co.elytra.resources",
     defaults: [
         "SettingsLibDefaults",
     ],
